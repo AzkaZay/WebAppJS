@@ -166,7 +166,7 @@ img {
 <script>
 let slideIndex = 0;
 showSlides();
-
+#testinggit.
 function showSlides() {
   let i;
   let slides = document.getElementsByClassName("mySlides");
